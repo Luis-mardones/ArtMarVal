@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-10 21:47:08
+/* Smarty version 3.1.32, created on 2018-09-23 22:24:48
   from 'module:pscustomtextpscustomtext.' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5b97108cedbda3_37987810',
+  'unifunc' => 'content_5ba83ce06f97f3_03149153',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b97108cedbda3_37987810 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '8634898485b97108ced81e5_91501078';
+function content_5ba83ce06f97f3_03149153 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '12272900535ba83ce06f5b58_59006234';
 ?>
 <!-- begin C:\xampp\htdocs\ArtMarVal/modules/ps_customtext/ps_customtext.tpl -->
 <div id="custom-text">

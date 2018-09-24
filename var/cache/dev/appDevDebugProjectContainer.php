@@ -16,6 +16,6 @@ if (!\class_exists(appDevDebugProjectContainer::class, false)) {
 
 return new \ContainerXvgkimp\appDevDebugProjectContainer(array(
     'container.build_hash' => 'Xvgkimp',
-    'container.build_id' => 'd0def5c7',
-    'container.build_time' => 1536626806,
+    'container.build_id' => '7b169995',
+    'container.build_time' => 1537752551,
 ), __DIR__.\DIRECTORY_SEPARATOR.'ContainerXvgkimp');

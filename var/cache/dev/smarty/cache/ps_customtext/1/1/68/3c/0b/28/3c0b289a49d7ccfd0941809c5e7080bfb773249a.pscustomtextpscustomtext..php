@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-10 21:47:09
+/* Smarty version 3.1.32, created on 2018-09-23 22:24:48
   from 'module:pscustomtextpscustomtext.' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5b97108d0c0c24_32172615',
+  'unifunc' => 'content_5ba83ce07cf1e9_97010440',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,7 +18,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5b97108d0c0c24_32172615 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ba83ce07cf1e9_97010440 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin C:\xampp\htdocs\ArtMarVal/modules/ps_customtext/ps_customtext.tpl -->
 <div id="custom-text">
   <h2>Custom Text Block</h2>
