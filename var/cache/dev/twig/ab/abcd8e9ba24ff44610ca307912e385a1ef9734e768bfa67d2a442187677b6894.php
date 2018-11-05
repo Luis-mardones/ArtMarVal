@@ -89,6 +89,6 @@ class __TwigTemplate_18491aae8944f7b6110fc06e138dbb1397c69081cf09c7afc28c778ab04
 <div id=\"module-modal-read-more-{{module.attributes.name}}{{ additionalModalSuffix|default('') }}\" class=\"modal modal-vcenter modal-read-more ps-modal-card fade\" role=\"dialog\">
 
 </div>
-", "PrestaShopBundle:Admin/Module/Includes:modal_read_more.html.twig", "C:\\xampp\\htdocs\\ArtMarVal\\src\\PrestaShopBundle/Resources/views/Admin/Module/Includes/modal_read_more.html.twig");
+", "PrestaShopBundle:Admin/Module/Includes:modal_read_more.html.twig", "C:\\xampp2\\htdocs\\ArtMarVal\\src\\PrestaShopBundle/Resources/views/Admin/Module/Includes/modal_read_more.html.twig");
     }
 }

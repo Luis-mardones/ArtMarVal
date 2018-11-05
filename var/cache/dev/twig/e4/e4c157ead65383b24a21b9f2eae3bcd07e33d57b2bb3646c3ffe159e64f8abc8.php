@@ -574,6 +574,6 @@ class __TwigTemplate_2c572e54759cc2b4c6c6d004da58ce7199f5c51c223da9209f52ac375c7
         {{ label|trans({}, 'Admin.Advparameters.Feature') }}
     </a>
 {% endmacro %}
-", "PrestaShopBundle:Admin:macros.html.twig", "C:\\xampp\\htdocs\\ArtMarVal\\src\\PrestaShopBundle/Resources/views/Admin/macros.html.twig");
+", "PrestaShopBundle:Admin:macros.html.twig", "C:\\xampp2\\htdocs\\ArtMarVal\\src\\PrestaShopBundle/Resources/views/Admin/macros.html.twig");
     }
 }

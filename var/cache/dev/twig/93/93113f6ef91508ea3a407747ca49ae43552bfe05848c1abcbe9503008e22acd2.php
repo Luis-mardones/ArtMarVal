@@ -237,6 +237,6 @@ class __TwigTemplate_4476b49d707548e1c72df8721d8d0de0eb1581154f2ba15954a75a00b6a
     {% endif %}
   {% endblock %}
 </div>
-", "PrestaShopBundle:Admin/Module/Includes:grid.html.twig", "C:\\xampp\\htdocs\\ArtMarVal\\src\\PrestaShopBundle/Resources/views/Admin/Module/Includes/grid.html.twig");
+", "PrestaShopBundle:Admin/Module/Includes:grid.html.twig", "C:\\xampp2\\htdocs\\ArtMarVal\\src\\PrestaShopBundle/Resources/views/Admin/Module/Includes/grid.html.twig");
     }
 }

@@ -415,6 +415,6 @@ help_link is defined ? help_link : ''
         />
     </nav>
 {% endblock %}
-", "@PrestaShop/Admin/layout.html.twig", "C:\\xampp\\htdocs\\ArtMarVal\\src\\PrestaShopBundle\\Resources\\views\\Admin\\layout.html.twig");
+", "@PrestaShop/Admin/layout.html.twig", "C:\\xampp2\\htdocs\\ArtMarVal\\src\\PrestaShopBundle\\Resources\\views\\Admin\\layout.html.twig");
     }
 }

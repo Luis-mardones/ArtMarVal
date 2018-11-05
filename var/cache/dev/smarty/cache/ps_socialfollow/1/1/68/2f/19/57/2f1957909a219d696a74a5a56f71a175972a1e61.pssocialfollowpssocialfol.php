@@ -1,32 +1,32 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-24 15:19:50
+/* Smarty version 3.1.32, created on 2018-11-05 17:15:58
   from 'module:pssocialfollowpssocialfol' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5ba92ac68e0276_14337984',
+  'unifunc' => 'content_5be0a4fee49881_24351830',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '80ac9ddb06fe7b43ffdd2f5cd1185536480d2577' => 
     array (
       0 => 'module:pssocialfollowpssocialfol',
-      1 => 1536448395,
+      1 => 1537807968,
       2 => 'module',
     ),
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5ba92ac68e0276_14337984 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5be0a4fee49881_24351830 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
 ));
-?><!-- begin C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_socialfollow/ps_socialfollow.tpl -->
+?><!-- begin C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_socialfollow/ps_socialfollow.tpl -->
 
   <div class="block-social col-lg-4 col-md-12 col-sm-12">
     <ul>
           </ul>
   </div>
 
-<!-- end C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_socialfollow/ps_socialfollow.tpl --><?php }
+<!-- end C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_socialfollow/ps_socialfollow.tpl --><?php }
 }

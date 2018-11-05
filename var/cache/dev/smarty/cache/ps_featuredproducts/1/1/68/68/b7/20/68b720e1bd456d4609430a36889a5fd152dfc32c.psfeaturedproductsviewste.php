@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-24 15:19:46
+/* Smarty version 3.1.32, created on 2018-11-05 17:15:57
   from 'module:psfeaturedproductsviewste' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5ba92ac2244963_03370537',
+  'unifunc' => 'content_5be0a4fd2f6b20_98766587',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'fa6cc378d2942c8857b89d6bca728048c0caeedd' => 
     array (
       0 => 'module:psfeaturedproductsviewste',
-      1 => 1536448394,
+      1 => 1537807967,
       2 => 'module',
     ),
     '5897c0698ec7f95af0e1e6b9d4bf6502f61dde77' => 
@@ -24,8 +24,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5ba92ac2244963_03370537 (Smarty_Internal_Template $_smarty_tpl) {
-?><!-- begin C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl --><section class="featured-products clearfix">
+function content_5be0a4fd2f6b20_98766587 (Smarty_Internal_Template $_smarty_tpl) {
+?><!-- begin C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl --><section class="featured-products clearfix">
   <h2 class="h2 products-section-title text-uppercase">
     Productos Destacados
   </h2>
@@ -69,7 +69,6 @@ function content_5ba92ac2244963_03370537 (Smarty_Internal_Template $_smarty_tpl)
 
       
         <ul class="product-flags">
-                      <li class="product-flag new">Nuevo</li>
                   </ul>
       
 
@@ -126,7 +125,6 @@ function content_5ba92ac2244963_03370537 (Smarty_Internal_Template $_smarty_tpl)
 
       
         <ul class="product-flags">
-                      <li class="product-flag new">Nuevo</li>
                   </ul>
       
 
@@ -183,7 +181,6 @@ function content_5ba92ac2244963_03370537 (Smarty_Internal_Template $_smarty_tpl)
 
       
         <ul class="product-flags">
-                      <li class="product-flag new">Nuevo</li>
                   </ul>
       
 
@@ -240,7 +237,6 @@ function content_5ba92ac2244963_03370537 (Smarty_Internal_Template $_smarty_tpl)
 
       
         <ul class="product-flags">
-                      <li class="product-flag new">Nuevo</li>
                   </ul>
       
 
@@ -297,7 +293,6 @@ function content_5ba92ac2244963_03370537 (Smarty_Internal_Template $_smarty_tpl)
 
       
         <ul class="product-flags">
-                      <li class="product-flag new">Nuevo</li>
                   </ul>
       
 
@@ -354,7 +349,6 @@ function content_5ba92ac2244963_03370537 (Smarty_Internal_Template $_smarty_tpl)
 
       
         <ul class="product-flags">
-                      <li class="product-flag new">Nuevo</li>
                   </ul>
       
 
@@ -411,7 +405,6 @@ function content_5ba92ac2244963_03370537 (Smarty_Internal_Template $_smarty_tpl)
 
       
         <ul class="product-flags">
-                      <li class="product-flag new">Nuevo</li>
                   </ul>
       
 
@@ -468,7 +461,6 @@ function content_5ba92ac2244963_03370537 (Smarty_Internal_Template $_smarty_tpl)
 
       
         <ul class="product-flags">
-                      <li class="product-flag new">Nuevo</li>
                   </ul>
       
 
@@ -491,5 +483,5 @@ function content_5ba92ac2244963_03370537 (Smarty_Internal_Template $_smarty_tpl)
     Todos los productos<i class="material-icons">&#xE315;</i>
   </a>
 </section>
-<!-- end C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl --><?php }
+<!-- end C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl --><?php }
 }

@@ -1252,6 +1252,6 @@ class __TwigTemplate_ff5e44c8a1d09fc8e607fa229a77ed2c4269cf448944f4c48c2195fc505
         display: none;
     }
 }
-", "@WebProfiler/Profiler/toolbar.css.twig", "C:\\xampp\\htdocs\\ArtMarVal\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\WebProfilerBundle\\Resources\\views\\Profiler\\toolbar.css.twig");
+", "@WebProfiler/Profiler/toolbar.css.twig", "C:\\xampp2\\htdocs\\ArtMarVal\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\WebProfilerBundle\\Resources\\views\\Profiler\\toolbar.css.twig");
     }
 }

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-23 22:24:53
+/* Smarty version 3.1.32, created on 2018-11-05 17:15:59
   from 'module:pscontactinfopscontactinf' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5ba83ce57def40_42363633',
+  'unifunc' => 'content_5be0a4ff9ecf14_85718128',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '9992f3fe04dd41bcec1a2029cf07bead637caf4d' => 
     array (
       0 => 'module:pscontactinfopscontactinf',
-      1 => 1536448394,
+      1 => 1537807967,
       2 => 'module',
     ),
   ),
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5ba83ce57def40_42363633 (Smarty_Internal_Template $_smarty_tpl) {
-?><!-- begin C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_contactinfo/ps_contactinfo.tpl -->
+function content_5be0a4ff9ecf14_85718128 (Smarty_Internal_Template $_smarty_tpl) {
+?><!-- begin C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_contactinfo/ps_contactinfo.tpl -->
 <div class="block-contact col-md-4 links wrapper">
   <div class="hidden-sm-down">
     <p class="h4 text-uppercase block-contact-title"><?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'Store information','d'=>'Shop.Theme.Global'),$_smarty_tpl ) );?>
@@ -52,5 +52,5 @@ function content_5ba83ce57def40_42363633 (Smarty_Internal_Template $_smarty_tpl)
     </div>
   </div>
 </div>
-<!-- end C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_contactinfo/ps_contactinfo.tpl --><?php }
+<!-- end C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_contactinfo/ps_contactinfo.tpl --><?php }
 }

@@ -202,6 +202,6 @@ class __TwigTemplate_82f68ab7d32951bd96f7311ae7b3a72a7e5e3d59df6c91c31cbad2b6c43
     </div>
   </div>
 </div>
-", "PrestaShopBundle:Admin/Module/Includes:modal_confirm_prestatrust.html.twig", "C:\\xampp\\htdocs\\ArtMarVal\\src\\PrestaShopBundle/Resources/views/Admin/Module/Includes/modal_confirm_prestatrust.html.twig");
+", "PrestaShopBundle:Admin/Module/Includes:modal_confirm_prestatrust.html.twig", "C:\\xampp2\\htdocs\\ArtMarVal\\src\\PrestaShopBundle/Resources/views/Admin/Module/Includes/modal_confirm_prestatrust.html.twig");
     }
 }

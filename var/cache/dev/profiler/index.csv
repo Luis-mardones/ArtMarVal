@@ -942,3 +942,14 @@ baa91a,::1,GET,http://localhost/ArtMarVal/admin6846zogbg/index.php/stock/?_token
 976237,::1,GET,http://localhost/ArtMarVal/admin6846zogbg/index.php/module/manage?_token=TRMO2-_BnxqVeBVTAZ_juzzAjppdfN1CdFF3KgdXX-o,1537752409,,200
 410daa,::1,GET,http://localhost/ArtMarVal/admin6846zogbg/index.php/module/notifications/count?_token=TRMO2-_BnxqVeBVTAZ_juzzAjppdfN1CdFF3KgdXX-o,1537752414,,200
 657e23,::1,POST,http://localhost/ArtMarVal/admin6846zogbg/index.php/module/manage/action/upgrade/ps_themecusto?_token=TRMO2-_BnxqVeBVTAZ_juzzAjppdfN1CdFF3KgdXX-o,1537752478,,200
+13d82d,::1,GET,http://localhost/ArtMarVal/admin6846zogbg/index.php/module/manage?_token=wch8V2uy7JJTUb59jJwCkd2TPEQhE8wXGo4sv1JaLsY,1541448388,,200
+241b31,::1,GET,http://localhost/ArtMarVal/admin6846zogbg/index.php/module/notifications/count?_token=wch8V2uy7JJTUb59jJwCkd2TPEQhE8wXGo4sv1JaLsY,1541448401,,200
+ed5c52,::1,POST,http://localhost/ArtMarVal/admin6846zogbg/index.php/module/manage/action/disable/ps_currencyselector?_token=wch8V2uy7JJTUb59jJwCkd2TPEQhE8wXGo4sv1JaLsY,1541448428,,200
+0f4217,::1,POST,http://localhost/ArtMarVal/admin6846zogbg/index.php/module/manage/action/configure/ps_linklist?_token=wch8V2uy7JJTUb59jJwCkd2TPEQhE8wXGo4sv1JaLsY,1541448440,,302
+5ee629,::1,GET,http://localhost/ArtMarVal/admin6846zogbg/index.php/module/manage?_token=wch8V2uy7JJTUb59jJwCkd2TPEQhE8wXGo4sv1JaLsY,1541448467,,200
+c189b2,::1,GET,http://localhost/ArtMarVal/admin6846zogbg/index.php/module/catalog?_token=wch8V2uy7JJTUb59jJwCkd2TPEQhE8wXGo4sv1JaLsY,1541448549,,200
+90ac59,::1,GET,http://localhost/ArtMarVal/admin6846zogbg/index.php/module/catalog/refresh?_token=wch8V2uy7JJTUb59jJwCkd2TPEQhE8wXGo4sv1JaLsY,1541448555,,200
+383d84,::1,GET,http://localhost/ArtMarVal/admin6846zogbg/index.php/module/notifications/count?_token=wch8V2uy7JJTUb59jJwCkd2TPEQhE8wXGo4sv1JaLsY,1541448557,,200
+8899e9,::1,GET,http://localhost/ArtMarVal/admin6846zogbg/index.php/configure/advanced/performance?_token=wch8V2uy7JJTUb59jJwCkd2TPEQhE8wXGo4sv1JaLsY,1541448897,,200
+032d9b,::1,POST,http://localhost/ArtMarVal/admin6846zogbg/index.php/configure/advanced/performance?_token=wch8V2uy7JJTUb59jJwCkd2TPEQhE8wXGo4sv1JaLsY,1541448946,,302
+fb8551,::1,GET,http://localhost/ArtMarVal/admin6846zogbg/index.php/configure/advanced/performance?_token=wch8V2uy7JJTUb59jJwCkd2TPEQhE8wXGo4sv1JaLsY,1541448948,,200

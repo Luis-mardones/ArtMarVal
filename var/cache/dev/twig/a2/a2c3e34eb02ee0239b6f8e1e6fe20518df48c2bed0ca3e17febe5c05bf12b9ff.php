@@ -110,6 +110,6 @@ class __TwigTemplate_31ea7e5adeea363ba2b7d3853a72c7e4dcc493caa40255b1b76097ad41d
 {% block addon_card %}
   {% include 'PrestaShopBundle:Admin/Module/Includes:card_manage_installed.html.twig' with { 'display_type': display_type, 'module': module, 'origin': origin|default('none') } %}
 {% endblock %}
-", "PrestaShopBundle:Admin/Module/Includes:grid_manage_installed.html.twig", "C:\\xampp\\htdocs\\ArtMarVal\\src\\PrestaShopBundle/Resources/views/Admin/Module/Includes/grid_manage_installed.html.twig");
+", "PrestaShopBundle:Admin/Module/Includes:grid_manage_installed.html.twig", "C:\\xampp2\\htdocs\\ArtMarVal\\src\\PrestaShopBundle/Resources/views/Admin/Module/Includes/grid_manage_installed.html.twig");
     }
 }

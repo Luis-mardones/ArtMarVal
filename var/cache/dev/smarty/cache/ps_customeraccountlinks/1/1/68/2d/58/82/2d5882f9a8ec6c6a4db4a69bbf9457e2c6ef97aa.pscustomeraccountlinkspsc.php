@@ -1,27 +1,27 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-24 15:19:51
+/* Smarty version 3.1.32, created on 2018-11-05 17:15:59
   from 'module:pscustomeraccountlinkspsc' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5ba92ac75dbe61_48044416',
+  'unifunc' => 'content_5be0a4ff91f8c9_40060609',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '42f9461127ce7396a601c2484841253ea5ba658f' => 
     array (
       0 => 'module:pscustomeraccountlinkspsc',
-      1 => 1536448394,
+      1 => 1537807967,
       2 => 'module',
     ),
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5ba92ac75dbe61_48044416 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5be0a4ff91f8c9_40060609 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
 ));
-?><!-- begin C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl -->
+?><!-- begin C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl -->
 <div id="block_myaccount_infos" class="col-md-2 links wrapper">
   <p class="h3 myaccount-title hidden-sm-down">
     <a class="text-uppercase" href="http://localhost/ArtMarVal/mi-cuenta" rel="nofollow">
@@ -61,5 +61,5 @@ $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, arra
         
 	</ul>
 </div>
-<!-- end C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl --><?php }
+<!-- end C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl --><?php }
 }

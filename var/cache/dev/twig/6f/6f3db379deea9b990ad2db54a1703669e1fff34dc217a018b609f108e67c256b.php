@@ -388,6 +388,6 @@ class __TwigTemplate_a20bf7fc39bcec4042bb511736ed45be0600a272f6b4dcba4c23794d72b
     <h2>{{ (collector.name|capitalize)|default('HTTP calls') }}</h2>
     {{  include('@CsaGuzzle/Calls/list.html.twig', { calls: collector.calls }) }}
 {% endblock %}
-", "CsaGuzzleBundle:Collector:guzzle.html.twig", "C:\\xampp\\htdocs\\ArtMarVal\\vendor\\csa\\guzzle-bundle\\src/Resources/views/Collector/guzzle.html.twig");
+", "CsaGuzzleBundle:Collector:guzzle.html.twig", "C:\\xampp2\\htdocs\\ArtMarVal\\vendor\\csa\\guzzle-bundle\\src/Resources/views/Collector/guzzle.html.twig");
     }
 }

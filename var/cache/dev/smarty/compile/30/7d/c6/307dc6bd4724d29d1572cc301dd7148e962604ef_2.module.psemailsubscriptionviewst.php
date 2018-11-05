@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-23 22:24:52
+/* Smarty version 3.1.32, created on 2018-11-05 17:15:58
   from 'module:psemailsubscriptionviewst' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5ba83ce48d57d1_24140634',
+  'unifunc' => 'content_5be0a4fe9c40d4_05823140',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '307dc6bd4724d29d1572cc301dd7148e962604ef' => 
     array (
       0 => 'module:psemailsubscriptionviewst',
-      1 => 1536448394,
+      1 => 1537807967,
       2 => 'module',
     ),
   ),
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5ba83ce48d57d1_24140634 (Smarty_Internal_Template $_smarty_tpl) {
-?><!-- begin C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl -->
+function content_5be0a4fe9c40d4_05823140 (Smarty_Internal_Template $_smarty_tpl) {
+?><!-- begin C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl -->
 <div class="block_newsletter col-lg-8 col-md-12 col-sm-12">
   <div class="row">
     <p id="block-newsletter-label" class="col-md-5 col-xs-12"><?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'Get our latest news and special sales','d'=>'Shop.Theme.Global'),$_smarty_tpl ) );?>
@@ -80,5 +80,5 @@ function content_5ba83ce48d57d1_24140634 (Smarty_Internal_Template $_smarty_tpl)
     </div>
   </div>
 </div>
-<!-- end C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl --><?php }
+<!-- end C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl --><?php }
 }

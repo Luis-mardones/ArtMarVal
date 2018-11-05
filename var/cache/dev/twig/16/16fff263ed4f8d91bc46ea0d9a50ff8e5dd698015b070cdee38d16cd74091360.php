@@ -582,6 +582,6 @@ class __TwigTemplate_04e7df64971001a09afc17b92d34eb50998a625ac7841de6ead737c320d
         </table>
     {% endfor %}
 {% endmacro %}
-", "@PrestaShop/Admin/WebProfiler/hooks_collector.html.twig", "C:\\xampp\\htdocs\\ArtMarVal\\src\\PrestaShopBundle\\Resources\\views\\Admin\\WebProfiler\\hooks_collector.html.twig");
+", "@PrestaShop/Admin/WebProfiler/hooks_collector.html.twig", "C:\\xampp2\\htdocs\\ArtMarVal\\src\\PrestaShopBundle\\Resources\\views\\Admin\\WebProfiler\\hooks_collector.html.twig");
     }
 }

@@ -873,6 +873,6 @@ class __TwigTemplate_8b6b492ba18e6a6952a90e03f3af5a62b17a9ef8bae65f9ba6d5e499aa4
         </table>
     {% endif %}
 {% endblock %}
-", "@PrestaShop/Admin/WebProfiler/config.html.twig", "C:\\xampp\\htdocs\\ArtMarVal\\src\\PrestaShopBundle\\Resources\\views\\Admin\\WebProfiler\\config.html.twig");
+", "@PrestaShop/Admin/WebProfiler/config.html.twig", "C:\\xampp2\\htdocs\\ArtMarVal\\src\\PrestaShopBundle\\Resources\\views\\Admin\\WebProfiler\\config.html.twig");
     }
 }

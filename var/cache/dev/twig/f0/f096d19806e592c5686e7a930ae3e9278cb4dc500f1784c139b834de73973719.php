@@ -156,6 +156,6 @@ class __TwigTemplate_f931949be1cb1319fe5eb1db27e5ceef95c78e0915d3b15ae90ef78b0e3
 {% set js_translatable = {
 \"Search - placeholder\": \"Search modules: keyword, name, author...\"|trans({}, 'Admin.Modules.Help'),
 }|merge(js_translatable) %}
-", "PrestaShopBundle:Admin/Module/Includes:menu_top.html.twig", "C:\\xampp\\htdocs\\ArtMarVal\\src\\PrestaShopBundle/Resources/views/Admin/Module/Includes/menu_top.html.twig");
+", "PrestaShopBundle:Admin/Module/Includes:menu_top.html.twig", "C:\\xampp2\\htdocs\\ArtMarVal\\src\\PrestaShopBundle/Resources/views/Admin/Module/Includes/menu_top.html.twig");
     }
 }

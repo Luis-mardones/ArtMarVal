@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-23 22:24:50
+/* Smarty version 3.1.32, created on 2018-11-05 17:15:57
   from 'module:pscustomersigninpscustome' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5ba83ce2d06e22_50265875',
+  'unifunc' => 'content_5be0a4fdd42bf9_14376603',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'd5f8f570180f74d1dbdd1a1d2af0445e90a6650c' => 
     array (
       0 => 'module:pscustomersigninpscustome',
-      1 => 1536448394,
+      1 => 1537807967,
       2 => 'module',
     ),
   ),
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5ba83ce2d06e22_50265875 (Smarty_Internal_Template $_smarty_tpl) {
-?><!-- begin C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_customersignin/ps_customersignin.tpl --><div id="_desktop_user_info">
+function content_5be0a4fdd42bf9_14376603 (Smarty_Internal_Template $_smarty_tpl) {
+?><!-- begin C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_customersignin/ps_customersignin.tpl --><div id="_desktop_user_info">
   <div class="user-info">
     <?php if ($_smarty_tpl->tpl_vars['logged']->value) {?>
       <a
@@ -61,5 +61,5 @@ function content_5ba83ce2d06e22_50265875 (Smarty_Internal_Template $_smarty_tpl)
     <?php }?>
   </div>
 </div>
-<!-- end C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_customersignin/ps_customersignin.tpl --><?php }
+<!-- end C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_customersignin/ps_customersignin.tpl --><?php }
 }

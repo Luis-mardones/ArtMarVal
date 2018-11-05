@@ -1669,6 +1669,6 @@ class __TwigTemplate_191ec9680edf7127a80110938c6cce963210693565faa4953f57b75fdab
         </tbody>
     </table>
 {% endmacro %}
-", "@Doctrine/Collector/db.html.twig", "C:\\xampp\\htdocs\\ArtMarVal\\vendor\\doctrine\\doctrine-bundle\\Resources\\views\\Collector\\db.html.twig");
+", "@Doctrine/Collector/db.html.twig", "C:\\xampp2\\htdocs\\ArtMarVal\\vendor\\doctrine\\doctrine-bundle\\Resources\\views\\Collector\\db.html.twig");
     }
 }

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-23 22:24:52
+/* Smarty version 3.1.32, created on 2018-11-05 17:15:58
   from 'module:pssocialfollowpssocialfol' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5ba83ce4b00f75_89572979',
+  'unifunc' => 'content_5be0a4fed2d344_00170395',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '80ac9ddb06fe7b43ffdd2f5cd1185536480d2577' => 
     array (
       0 => 'module:pssocialfollowpssocialfol',
-      1 => 1536448395,
+      1 => 1537807968,
       2 => 'module',
     ),
   ),
@@ -20,24 +20,24 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5ba83ce4b00f75_89572979 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5be0a4fed2d344_00170395 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
-$_smarty_tpl->compiled->nocache_hash = '1876184975ba83ce4af5657_13565146';
+$_smarty_tpl->compiled->nocache_hash = '6677974655be0a4fed21d49_25336436';
 ?>
-<!-- begin C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_socialfollow/ps_socialfollow.tpl -->
+<!-- begin C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_socialfollow/ps_socialfollow.tpl -->
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_16900265475ba83ce4af72c5_77541828', 'block_social');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_2752892195be0a4fed24068_07431122', 'block_social');
 ?>
 
-<!-- end C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_socialfollow/ps_socialfollow.tpl --><?php }
+<!-- end C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_socialfollow/ps_socialfollow.tpl --><?php }
 /* {block 'block_social'} */
-class Block_16900265475ba83ce4af72c5_77541828 extends Smarty_Internal_Block
+class Block_2752892195be0a4fed24068_07431122 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'block_social' => 
   array (
-    0 => 'Block_16900265475ba83ce4af72c5_77541828',
+    0 => 'Block_2752892195be0a4fed24068_07431122',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {

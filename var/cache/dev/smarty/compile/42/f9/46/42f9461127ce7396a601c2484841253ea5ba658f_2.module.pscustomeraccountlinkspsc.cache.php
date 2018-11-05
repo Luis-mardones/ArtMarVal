@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-23 22:24:53
+/* Smarty version 3.1.32, created on 2018-11-05 17:15:59
   from 'module:pscustomeraccountlinkspsc' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5ba83ce55227f1_06118209',
+  'unifunc' => 'content_5be0a4ff7d7928_32625936',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '42f9461127ce7396a601c2484841253ea5ba658f' => 
     array (
       0 => 'module:pscustomeraccountlinkspsc',
-      1 => 1536448394,
+      1 => 1537807967,
       2 => 'module',
     ),
   ),
@@ -20,10 +20,10 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5ba83ce55227f1_06118209 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '2152534125ba83ce5512bc9_66626567';
+function content_5be0a4ff7d7928_32625936 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '9966668225be0a4ff7cc1b5_71254814';
 ?>
-<!-- begin C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl -->
+<!-- begin C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl -->
 <div id="block_myaccount_infos" class="col-md-2 links wrapper">
   <p class="h3 myaccount-title hidden-sm-down">
     <a class="text-uppercase" href="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['urls']->value['pages']['my_account'], ENT_QUOTES, 'UTF-8');?>
@@ -64,5 +64,5 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
 
 	</ul>
 </div>
-<!-- end C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl --><?php }
+<!-- end C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl --><?php }
 }

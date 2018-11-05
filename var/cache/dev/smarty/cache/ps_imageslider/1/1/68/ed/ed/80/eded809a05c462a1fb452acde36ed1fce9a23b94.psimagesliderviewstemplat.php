@@ -1,25 +1,25 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-24 15:19:43
+/* Smarty version 3.1.32, created on 2018-11-05 17:15:54
   from 'module:psimagesliderviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5ba92abf3e7867_66625851',
+  'unifunc' => 'content_5be0a4fa157535_33199877',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '6c2108a17c7103b6e203f4f0621d4645b56b0114' => 
     array (
       0 => 'module:psimagesliderviewstemplat',
-      1 => 1536448395,
+      1 => 1537807967,
       2 => 'module',
     ),
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5ba92abf3e7867_66625851 (Smarty_Internal_Template $_smarty_tpl) {
-?><!-- begin C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_imageslider/views/templates/hook/slider.tpl -->
+function content_5be0a4fa157535_33199877 (Smarty_Internal_Template $_smarty_tpl) {
+?><!-- begin C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_imageslider/views/templates/hook/slider.tpl -->
   <div id="carousel" data-ride="carousel" class="carousel slide" data-interval="5000" data-wrap="true" data-pause="hover">
     <ul class="carousel-inner" role="listbox">
               <li class="carousel-item active" role="option" aria-hidden="false">
@@ -74,5 +74,5 @@ function content_5ba92abf3e7867_66625851 (Smarty_Internal_Template $_smarty_tpl)
       </a>
     </div>
   </div>
-<!-- end C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_imageslider/views/templates/hook/slider.tpl --><?php }
+<!-- end C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_imageslider/views/templates/hook/slider.tpl --><?php }
 }

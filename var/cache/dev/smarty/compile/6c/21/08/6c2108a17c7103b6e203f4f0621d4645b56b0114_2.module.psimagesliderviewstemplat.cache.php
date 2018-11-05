@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-23 22:24:46
+/* Smarty version 3.1.32, created on 2018-11-05 17:15:53
   from 'module:psimagesliderviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5ba83cde846531_19261002',
+  'unifunc' => 'content_5be0a4f9ea8a01_22066993',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '6c2108a17c7103b6e203f4f0621d4645b56b0114' => 
     array (
       0 => 'module:psimagesliderviewstemplat',
-      1 => 1536448395,
+      1 => 1537807967,
       2 => 'module',
     ),
   ),
@@ -20,10 +20,10 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5ba83cde846531_19261002 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '13570104375ba83cde7af932_02912911';
+function content_5be0a4f9ea8a01_22066993 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '14240984725be0a4f9e126e0_14637750';
 ?>
-<!-- begin C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_imageslider/views/templates/hook/slider.tpl -->
+<!-- begin C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_imageslider/views/templates/hook/slider.tpl -->
 <?php if ($_smarty_tpl->tpl_vars['homeslider']->value['slides']) {?>
   <div id="carousel" data-ride="carousel" class="carousel slide" data-interval="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['homeslider']->value['speed'], ENT_QUOTES, 'UTF-8');?>
 " data-wrap="<?php echo htmlspecialchars((string)$_smarty_tpl->tpl_vars['homeslider']->value['wrap'], ENT_QUOTES, 'UTF-8');?>
@@ -82,5 +82,5 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
     </div>
   </div>
 <?php }?>
-<!-- end C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_imageslider/views/templates/hook/slider.tpl --><?php }
+<!-- end C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_imageslider/views/templates/hook/slider.tpl --><?php }
 }

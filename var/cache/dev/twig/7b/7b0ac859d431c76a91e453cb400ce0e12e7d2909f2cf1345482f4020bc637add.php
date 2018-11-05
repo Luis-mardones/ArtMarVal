@@ -398,6 +398,6 @@ class __TwigTemplate_2f188b2d8f6f6d8d8c86b89576166e4e3d391ffdcd7ae36381c78a4e30c
 \"Bulk Action - Request not found\": 'The action \"[1]\" is not available, impossible to perform your request.'|trans({}, 'Admin.Modules.Notification'),
 \"Bulk Action - Request not available for module\": \"The action [1] is not available for module [2]. Skipped.\"|trans({}, 'Admin.Modules.Notification'),
 }|merge(js_translatable) %}
-", "PrestaShopBundle:Admin/Module:manage.html.twig", "C:\\xampp\\htdocs\\ArtMarVal\\src\\PrestaShopBundle/Resources/views/Admin/Module/manage.html.twig");
+", "PrestaShopBundle:Admin/Module:manage.html.twig", "C:\\xampp2\\htdocs\\ArtMarVal\\src\\PrestaShopBundle/Resources/views/Admin/Module/manage.html.twig");
     }
 }

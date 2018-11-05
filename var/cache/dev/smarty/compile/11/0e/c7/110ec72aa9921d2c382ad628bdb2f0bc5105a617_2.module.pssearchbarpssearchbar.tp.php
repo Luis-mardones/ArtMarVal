@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-23 22:24:51
+/* Smarty version 3.1.32, created on 2018-11-05 17:15:58
   from 'module:pssearchbarpssearchbar.tp' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5ba83ce39cfb38_15384792',
+  'unifunc' => 'content_5be0a4fe47eb06_01409501',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '110ec72aa9921d2c382ad628bdb2f0bc5105a617' => 
     array (
       0 => 'module:pssearchbarpssearchbar.tp',
-      1 => 1536448394,
+      1 => 1537807967,
       2 => 'module',
     ),
   ),
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5ba83ce39cfb38_15384792 (Smarty_Internal_Template $_smarty_tpl) {
-?><!-- begin C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_searchbar/ps_searchbar.tpl --><!-- Block search module TOP -->
+function content_5be0a4fe47eb06_01409501 (Smarty_Internal_Template $_smarty_tpl) {
+?><!-- begin C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_searchbar/ps_searchbar.tpl --><!-- Block search module TOP -->
 <div id="search_widget" class="search-widget" data-search-controller-url="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['search_controller_url']->value, ENT_QUOTES, 'UTF-8');?>
 ">
 	<form method="get" action="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['search_controller_url']->value, ENT_QUOTES, 'UTF-8');?>
@@ -39,5 +39,5 @@ function content_5ba83ce39cfb38_15384792 (Smarty_Internal_Template $_smarty_tpl)
 	</form>
 </div>
 <!-- /Block search module TOP -->
-<!-- end C:\xampp\htdocs\ArtMarVal/themes/classic/modules/ps_searchbar/ps_searchbar.tpl --><?php }
+<!-- end C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_searchbar/ps_searchbar.tpl --><?php }
 }

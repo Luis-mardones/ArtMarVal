@@ -192,6 +192,6 @@ class __TwigTemplate_869863babfaecf74a3606adec51460b0efd95dc4fe802c37b448519c070
         </div>
     {% endfor %}
 </div>
-", "PrestaShopBundle:Admin/Module/Includes:dropdown_categories.html.twig", "C:\\xampp\\htdocs\\ArtMarVal\\src\\PrestaShopBundle/Resources/views/Admin/Module/Includes/dropdown_categories.html.twig");
+", "PrestaShopBundle:Admin/Module/Includes:dropdown_categories.html.twig", "C:\\xampp2\\htdocs\\ArtMarVal\\src\\PrestaShopBundle/Resources/views/Admin/Module/Includes/dropdown_categories.html.twig");
     }
 }
