@@ -953,3 +953,6 @@ c189b2,::1,GET,http://localhost/ArtMarVal/admin6846zogbg/index.php/module/catalo
 8899e9,::1,GET,http://localhost/ArtMarVal/admin6846zogbg/index.php/configure/advanced/performance?_token=wch8V2uy7JJTUb59jJwCkd2TPEQhE8wXGo4sv1JaLsY,1541448897,,200
 032d9b,::1,POST,http://localhost/ArtMarVal/admin6846zogbg/index.php/configure/advanced/performance?_token=wch8V2uy7JJTUb59jJwCkd2TPEQhE8wXGo4sv1JaLsY,1541448946,,302
 fb8551,::1,GET,http://localhost/ArtMarVal/admin6846zogbg/index.php/configure/advanced/performance?_token=wch8V2uy7JJTUb59jJwCkd2TPEQhE8wXGo4sv1JaLsY,1541448948,,200
+0f212e,::1,GET,http://localhost/ArtMarVal/admin6846zogbg/index.php/configure/advanced/performance?_token=ky2awv_vKJ9DgE9FGjmYoSzyEV8kQg83uFqfhxtFTBs,1541870737,,200
+f44af7,::1,POST,http://localhost/ArtMarVal/admin6846zogbg/index.php/configure/advanced/performance?_token=ky2awv_vKJ9DgE9FGjmYoSzyEV8kQg83uFqfhxtFTBs,1541870751,,302
+3d6475,::1,GET,http://localhost/ArtMarVal/admin6846zogbg/index.php/configure/advanced/performance?_token=ky2awv_vKJ9DgE9FGjmYoSzyEV8kQg83uFqfhxtFTBs,1541870754,,200
