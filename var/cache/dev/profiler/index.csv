@@ -956,3 +956,5 @@ fb8551,::1,GET,http://localhost/ArtMarVal/admin6846zogbg/index.php/configure/adv
 0f212e,::1,GET,http://localhost/ArtMarVal/admin6846zogbg/index.php/configure/advanced/performance?_token=ky2awv_vKJ9DgE9FGjmYoSzyEV8kQg83uFqfhxtFTBs,1541870737,,200
 f44af7,::1,POST,http://localhost/ArtMarVal/admin6846zogbg/index.php/configure/advanced/performance?_token=ky2awv_vKJ9DgE9FGjmYoSzyEV8kQg83uFqfhxtFTBs,1541870751,,302
 3d6475,::1,GET,http://localhost/ArtMarVal/admin6846zogbg/index.php/configure/advanced/performance?_token=ky2awv_vKJ9DgE9FGjmYoSzyEV8kQg83uFqfhxtFTBs,1541870754,,200
+6574b2,::1,GET,http://localhost/ArtMarVal/admin6846zogbg/index.php/?controller=AdminGamification&token=22a3d4f8a6c5c9c9ecc37c2938a1c41f,1542919418,,200
+01aa06,::1,POST,http://localhost/ArtMarVal/admin6846zogbg/index.php/?controller=AdminGamification&token=22a3d4f8a6c5c9c9ecc37c2938a1c41f,1542919420,,500
