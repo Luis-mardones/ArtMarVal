@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-22 23:49:46
+/* Smarty version 3.1.32, created on 2018-11-26 00:07:25
   from 'module:psimagesliderviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bf76aca5810d1_48187801',
+  'unifunc' => 'content_5bfb636debf8a2_22985207',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,14 +18,14 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5bf76aca5810d1_48187801 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bfb636debf8a2_22985207 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_imageslider/views/templates/hook/slider.tpl -->
   <div id="carousel" data-ride="carousel" class="carousel slide" data-interval="5000" data-wrap="true" data-pause="hover">
     <ul class="carousel-inner" role="listbox">
               <li class="carousel-item active" role="option" aria-hidden="false">
           <a href="http://localhost/ArtMarVal/10-figuras-de-madera">
             <figure>
-              <img src="http://localhost/ArtMarVal/modules/ps_imageslider/images/sample-1.jpg" alt="Figuras de Madera">
+              <img src="http://localhost/ArtMarVal/modules/ps_imageslider/images/2ad72d25731ed47d56810770eacaa771cd79943d_Figuras madera.jpeg" alt="Figuras de Madera">
                               <figcaption class="caption">
                   <h2 class="display-1 text-uppercase">Figuras de madera</h2>
                   <div class="caption-description"><p><span style="font-family:Verdana, sans-serif;font-size:11.3333px;">Distintos tipos de figuras para la decoración de su hogar</span></p></div>
@@ -36,7 +36,7 @@ function content_5bf76aca5810d1_48187801 (Smarty_Internal_Template $_smarty_tpl)
               <li class="carousel-item " role="option" aria-hidden="true">
           <a href="http://localhost/ArtMarVal/14-cuadros-y-pinturas">
             <figure>
-              <img src="http://localhost/ArtMarVal/modules/ps_imageslider/images/sample-2.jpg" alt="Cuadros y Pinturas">
+              <img src="http://localhost/ArtMarVal/modules/ps_imageslider/images/9b10ed89dbfeae180ed08ce90d0f890269ea4fbd_cuadros y pinturas.jpeg" alt="Cuadros y Pinturas">
                               <figcaption class="caption">
                   <h2 class="display-1 text-uppercase">Cuadros y Pinturas</h2>
                   <div class="caption-description"><p><span style="color:#232323;font-family:'Noto Sans', sans-serif;font-size:15px;">Varios Cuadros y Pinturas para dar color a tu hogar</span></p></div>
@@ -47,7 +47,7 @@ function content_5bf76aca5810d1_48187801 (Smarty_Internal_Template $_smarty_tpl)
               <li class="carousel-item " role="option" aria-hidden="true">
           <a href="http://localhost/ArtMarVal/18-otros">
             <figure>
-              <img src="http://localhost/ArtMarVal/modules/ps_imageslider/images/sample-3.jpg" alt="Otros">
+              <img src="http://localhost/ArtMarVal/modules/ps_imageslider/images/05375bcd3a6505ea24dbde94ed3fcda80da8e698_otros.jpeg" alt="Otros">
                               <figcaption class="caption">
                   <h2 class="display-1 text-uppercase">Otros</h2>
                   <div class="caption-description"><p><span style="color:#232323;font-family:'Noto Sans', sans-serif;font-size:15px;">Variedad de productos para decorar el hogar de formas distintas</span></p></div>
