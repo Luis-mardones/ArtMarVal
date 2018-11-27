@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-05 17:15:58
+/* Smarty version 3.1.32, created on 2018-11-26 15:38:22
   from 'module:psemailsubscriptionviewst' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5be0a4fe9c40d4_05823140',
+  'unifunc' => 'content_5bfc3d9e35c8f6_64321469',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '307dc6bd4724d29d1572cc301dd7148e962604ef' => 
     array (
       0 => 'module:psemailsubscriptionviewst',
-      1 => 1537807967,
+      1 => 1543255817,
       2 => 'module',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5be0a4fe9c40d4_05823140 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bfc3d9e35c8f6_64321469 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin C:\xampp2\htdocs\ArtMarVal/themes/classic/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl -->
 <div class="block_newsletter col-lg-8 col-md-12 col-sm-12">
   <div class="row">
